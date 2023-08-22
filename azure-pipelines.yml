@@ -18,5 +18,5 @@ pool:
     resourceGroupName: 'KubeRG'
     location: 'Qatar Central'
     templateLocation: 'Linked artifact'
-    csmFile: 'https://github.com/asifgohar/ARMPipeline-repo.git'
+    csmFile: 'https://raw.githubusercontent.com/asifgohar/ARMPipeline-repo/200348d77dd9395fe69759111d5edbeddb6da42a/create_web_app/azuredeploy.json'
     deploymentMode: 'Incremental'
